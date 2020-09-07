@@ -1,6 +1,6 @@
 # Geomorphometry
 
-Computation of Morphometric Parameters from Digital Elevation Models
+## Computation of Morphometric Parameters from Digital Elevation Models
 
 - slope gradient (degrees)
 - slope aspect (degrees)
@@ -9,3 +9,7 @@ Computation of Morphometric Parameters from Digital Elevation Models
 - plan curvature (1/m)
 - maximum curvature
 - minimum curvature
+
+## Methods
+
+- Evans-Young
